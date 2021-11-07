@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Juventic-3/static/css/main.af153444.chunk.css",
+    "main.js": "/Juventic-3/static/js/main.fd325d3f.chunk.js",
+    "main.js.map": "/Juventic-3/static/js/main.fd325d3f.chunk.js.map",
+    "runtime-main.js": "/Juventic-3/static/js/runtime-main.5f635cfc.js",
+    "runtime-main.js.map": "/Juventic-3/static/js/runtime-main.5f635cfc.js.map",
+    "static/css/2.44e2ad36.chunk.css": "/Juventic-3/static/css/2.44e2ad36.chunk.css",
+    "static/js/2.c8bea70e.chunk.js": "/Juventic-3/static/js/2.c8bea70e.chunk.js",
+    "static/js/2.c8bea70e.chunk.js.map": "/Juventic-3/static/js/2.c8bea70e.chunk.js.map",
+    "static/js/3.3758862f.chunk.js": "/Juventic-3/static/js/3.3758862f.chunk.js",
+    "static/js/3.3758862f.chunk.js.map": "/Juventic-3/static/js/3.3758862f.chunk.js.map",
+    "index.html": "/Juventic-3/index.html",
+    "static/css/2.44e2ad36.chunk.css.map": "/Juventic-3/static/css/2.44e2ad36.chunk.css.map",
+    "static/css/main.af153444.chunk.css.map": "/Juventic-3/static/css/main.af153444.chunk.css.map",
+    "static/js/2.c8bea70e.chunk.js.LICENSE.txt": "/Juventic-3/static/js/2.c8bea70e.chunk.js.LICENSE.txt",
+    "static/media/aboutindex.css": "/Juventic-3/static/media/about-bg.83fde597.jpg",
+    "static/media/App.css": "/Juventic-3/static/media/background-02.f97761e6.jpg",
+    "static/media/footer.css": "/Juventic-3/static/media/background-footer.b3060a2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f635cfc.js",
+    "static/css/2.44e2ad36.chunk.css",
+    "static/js/2.c8bea70e.chunk.js",
+    "static/css/main.af153444.chunk.css",
+    "static/js/main.fd325d3f.chunk.js"
+  ]
+}

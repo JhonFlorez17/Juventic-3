@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Juventic-3/static/css/main.af153444.chunk.css",
-    "main.js": "/Juventic-3/static/js/main.e770cbcd.chunk.js",
-    "main.js.map": "/Juventic-3/static/js/main.e770cbcd.chunk.js.map",
+    "main.js": "/Juventic-3/static/js/main.c7d65c15.chunk.js",
+    "main.js.map": "/Juventic-3/static/js/main.c7d65c15.chunk.js.map",
     "runtime-main.js": "/Juventic-3/static/js/runtime-main.5f635cfc.js",
     "runtime-main.js.map": "/Juventic-3/static/js/runtime-main.5f635cfc.js.map",
     "static/css/2.44e2ad36.chunk.css": "/Juventic-3/static/css/2.44e2ad36.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.44e2ad36.chunk.css",
     "static/js/2.a2ed80f8.chunk.js",
     "static/css/main.af153444.chunk.css",
-    "static/js/main.e770cbcd.chunk.js"
+    "static/js/main.c7d65c15.chunk.js"
   ]
 }
